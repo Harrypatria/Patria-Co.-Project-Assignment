@@ -236,6 +236,8 @@ def create_prediction_animation(predictions, timestamps):
 - **Agent Decision Flow**: Visualization of AI reasoning process
 
 ### Example Outputs
+Here's an example of animated plot. 
+https://www.linkedin.com/posts/timurbikmukhametov_top-8-feature-selection-methods-with-pros-activity-7335998872902623233-izCq?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA_xhP0BO1tyIW7GElWmMxAFBpVxDeG_qcU
 - [📊 Sample Time-series Animation](assets/animations/timeseries_forecast.gif)
 - [📈 Performance Metrics Dashboard](assets/animations/performance_dashboard.gif)
 - [🤖 Agent Decision Visualization](assets/animations/agent_decisions.gif)
