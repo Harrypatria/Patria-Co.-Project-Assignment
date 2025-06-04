@@ -395,8 +395,6 @@ A: Yes, synthetic data is acceptable if it's realistic and well-documented.
 
 ---
 
----
-
 <div align="center">
 *Remember: Every expert was once a beginner. Your programming journey is unique, and we're here to support you every step of the way.*
 
