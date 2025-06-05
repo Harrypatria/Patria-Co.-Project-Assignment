@@ -7,6 +7,8 @@
 > **Patria & Co. — Project Assignment Brief**  
 > Evaluating Agentic AI capabilities for real-world predictive analytics with dynamic data visualization
 
+![Animated Plot](assets/animated-plot-patriaco.gif)
+
 ## 🎯 Project Overview
 
 This project demonstrates the development of an advanced, real-world Agentic AI use case for predictive analytics, integrated with animated data visualization to effectively communicate insights. The system showcases autonomous AI behavior including task planning, decision-making, learning from feedback, and self-adjustment based on prediction outputs.
